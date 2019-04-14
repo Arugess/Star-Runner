@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//This keeps track of the score of the player during the level.//
+
 public class Score : MonoBehaviour
 {
     //Score for player.
