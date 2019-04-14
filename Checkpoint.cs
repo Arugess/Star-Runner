@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This creates a checkpoint when the playerpasses through it.//
+//The player will reswpan at the checkpoint instead of the beginning of the level.//
+
 public class Checkpoint : MonoBehaviour
 {
     //Finds the LevelManager script.
