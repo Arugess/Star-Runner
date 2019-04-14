@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This creates a killing box above the enmies and allows the player to destroy an enemy.//
+
 public class KillBox : MonoBehaviour {
 
 	// Use this for initialization
