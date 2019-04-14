@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
+//This starts the level and finds the player. It will also respawn the player at the last checkpoint the player was at.//
+
 public class LevelManager : MonoBehaviour
 {
     public string levelToLoad;
