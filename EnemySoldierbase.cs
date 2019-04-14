@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This controls the enemies. It makes the enemy move and changes direction when it hits an object. It also flips the sprite image.//
+
 public class EnemySoldierbase : MonoBehaviour
 {
     //Enemy stats.
