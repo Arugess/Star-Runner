@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This script controls the player and makes them continuosly move.// 
+//It also allows the player to jump and change direction when they hit a wall.//
+//It makes the player lose some of their sore when they take damage.//
+
 public class PlayerBase : MonoBehaviour
 {
     //Finds the LevelManager script.
