@@ -4,6 +4,8 @@ using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
 
+//This begins the countdown of the timer to the string in the game.//
+
 public class Timer : MonoBehaviour
 {
     public string reloadLevel;
